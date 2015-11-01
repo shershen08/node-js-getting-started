@@ -11,7 +11,7 @@
     "express": "4.13.3",
     "json-server" : "0.8.2",
     "jade" : "1.11.0",
-    "reactjs" : "0.14.1",
+    "react" : "0.14.1",
     "redux" : "3.0.4"
   },
   "engines": {
